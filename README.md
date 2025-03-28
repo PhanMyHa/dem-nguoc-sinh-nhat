@@ -1,5 +1,7 @@
 ## 📌 Hướng dẫn cài đặt và chạy ứng dụng
 
+Thêm file local.properties vào folder android, sau đó copy "sdk.dir=C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk" của máy bạn paste vào file
+
 ### **1️⃣ Cài đặt các dependencies**
 Trước khi chạy ứng dụng, bạn cần cài đặt các dependencies bằng lệnh sau:
 npm install
